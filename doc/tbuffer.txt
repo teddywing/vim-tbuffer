@@ -1,0 +1,37 @@
+*tbuffer.txt*	Switch to the tab containing a buffer
+
+Author:  Teddy Wing <http://teddywing.com>
+License: GPLv3+
+Version: 0.0.1
+
+==============================================================================
+INTRODUCTION                                            *tbuffer-introduction*
+
+Open the tab page containing a given buffer. Provides a way to switch to a
+visible buffer without changing the tab and window layout.
+
+==============================================================================
+COMMANDS                                                    *tbuffer-commands*
+
+:TBuffer {bufname}					*:TBuffer*
+		Switch to the tab containing buffer |{bufname}|.
+
+==============================================================================
+LICENSE                                                      *tbuffer-license*
+
+Copyright (c) 2020  Teddy Wing
+
+TBuffer is free software: you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+TBuffer is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with TBuffer. If not, see <https://www.gnu.org/licenses/>.
+
+ vim:tw=78:ts=8:ft=help:norl:

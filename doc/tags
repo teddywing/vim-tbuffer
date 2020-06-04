@@ -1,0 +1,5 @@
+:TBuffer	tbuffer.txt	/*:TBuffer*
+tbuffer-commands	tbuffer.txt	/*tbuffer-commands*
+tbuffer-introduction	tbuffer.txt	/*tbuffer-introduction*
+tbuffer-license	tbuffer.txt	/*tbuffer-license*
+tbuffer.txt	tbuffer.txt	/*tbuffer.txt*
