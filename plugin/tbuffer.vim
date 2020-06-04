@@ -1,9 +1,4 @@
 function! TBuffer(file)
-	" save swb
-	" swb=usetab
-	" b $1
-	" restore swb
-
 	let switchbuf_save = &switchbuf
 
 	let &switchbuf = 'usetab'
